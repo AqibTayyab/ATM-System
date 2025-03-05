@@ -1,6 +1,7 @@
 Description
 
 This is a simple ATM system written in C++ that allows users to perform basic banking operations interactively. The system provides the following functionalities:
+
 1-Check account balance
 
 2-Deposit money
